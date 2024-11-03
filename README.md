@@ -2,6 +2,7 @@
 
 ## Overview
 Pong Arena is a classic Pong game where players can compete in both single-player mode against AI and multiplayer mode against another player.
+The Win32 API is used for handling pixels and input, allowing direct interaction with the Windows operating system to create the game's interface and manage user controls.
 
 ## Screenshots
 
