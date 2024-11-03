@@ -191,7 +191,7 @@ void Game::simulateGame(Input* input, Renderer graphicsRenderer, RenderWin32Plat
     else if (GameMode == MENU)
     {
         // Menu rendering logic
-        graphicsRenderer.drawText(render, "PONG GAME", 37, 80, 0x000000);
+        graphicsRenderer.drawText(render, "PONG ARENA", 37, 80, 0x000000);
         graphicsRenderer.drawText(render, "MADE BY: OMAR ABDELMONEM SAYED", 9, 20, 0x000000);
 
         if (pressed(input, BUTTON_LEFT)) swapButton = true;
