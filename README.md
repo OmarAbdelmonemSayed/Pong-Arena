@@ -4,8 +4,8 @@
 Pong Arena is a classic Pong game where players can compete in both single-player mode against AI and multiplayer mode against another player.
 
 ## Screenshots
-![Main Screen Screenshot]("Pong Game/screenshots/main screen.png")
-![In-Game Screenshot]("Pong Game/screenshots/in game.png")
+![Main Screen Screenshot](screenshots/main_screen.png)
+![In-Game Screenshot](screenshots/in_game.png)
 
 ## Game Rules
 - **Single Player**: Compete against AI.
