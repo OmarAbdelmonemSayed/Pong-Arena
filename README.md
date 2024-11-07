@@ -53,3 +53,6 @@ The Win32 API is used for handling pixels and input, allowing direct interaction
 - Clone the repository.
 - Open the solution in Visual Studio.
 - Build and run the project.
+
+### Recommended Build Configuration
+- For the best performance, make sure to run the game in **Release** mode. The **Debug** mode is intended for development and may cause the game to run slower.
