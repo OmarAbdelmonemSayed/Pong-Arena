@@ -7,7 +7,7 @@ The Win32 API is used for handling pixels and input, allowing direct interaction
 
 ## Screenshots
 
-![main_screen](https://github.com/user-attachments/assets/b12bf918-f7df-4985-8cd3-d2ed015a484a)
+![main_screen](https://github.com/OmarAbdelmonemSayed/Pong-Arena/blob/master/Pong%20Game/screenshots/main_screen.png)
 
 ![in_game](https://github.com/user-attachments/assets/190f5502-29e3-418f-b149-7d716cb31ca0)
 
