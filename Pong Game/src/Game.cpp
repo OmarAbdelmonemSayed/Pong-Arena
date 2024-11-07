@@ -79,7 +79,8 @@ void Game::simulateGame(Input* input, Renderer graphicsRenderer, RenderWin32Plat
     graphicsRenderer.drawRectangle(render, 3, 96, 3, 96, 0x2C3E50);
 
     double performanceMultiplier = time / (1.0 / 60.0); // Assuming 60 FPS as target
-
+    performanceMultiplier = customClamp(performanceMultiplier, 0.000000033, 0.00000057);
+    
     if (GameMode == GAME)
     {
         // Player one movement
